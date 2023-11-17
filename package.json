@@ -1,0 +1,27 @@
+{
+  "name": "react-contexted",
+  "version": "0.0.1",
+  "description": "A context menu for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLTPham/react-contexted.git"
+  },
+  "keywords": [
+    "context",
+    "menu"
+  ],
+  "author": "Tony Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLTPham/react-contexted/issues"
+  },
+  "homepage": "https://github.com/TLTPham/react-contexted#readme",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  }
+}
